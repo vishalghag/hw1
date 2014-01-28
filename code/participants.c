@@ -20,11 +20,11 @@ main (int argc, char *argv[])
   int i = 0;
   printf ("%02d: Samuel A. Rebelsky\n", ++i);
   printf ("%02d: Nicolas Knoebber\n", ++i);
-  printf ("%02d: Sumee Zahid\n", ++i);
+  printf ("%02d: Samee Zahid\n", ++i);
   printf ("%02d: Alex Mitchell\n", ++i);
   printf ("%02d: Toby Baratta\n", ++i);
-  printf ("%02d: Shaun S. Mataire", ++i);
-  printf ("%02d: Khoa Nguyen", ++i);
+  printf ("%02d: Shaun S. Mataire\n", ++i);
+  printf ("%02d: Khoa Nguyen\n", ++i);
   printf ("There are %i participants.\n", i);
   return 0;
 } // main
