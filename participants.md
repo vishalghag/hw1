@@ -6,3 +6,4 @@ A list of participants in CSC 195
 * Toby E. Baratta
 * Alexander C. Mitchell
 * Samuel A. Rebelsky
+*Shaun S. Mataire
