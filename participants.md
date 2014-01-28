@@ -8,4 +8,5 @@ A list of participants in CSC 195
 * Alexander C. Mitchell
 * Khoa Nguyen
 * Samuel A. Rebelsky
+* Zoe Wolter
 * Muhammad Samee Zahid
