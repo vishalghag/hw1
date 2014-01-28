@@ -24,6 +24,7 @@ main (int argc, char *argv[])
   printf ("%02d: Alex Mitchell\n", ++i);
   printf ("%02d: Toby Baratta\n", ++i);
   printf ("%02d: Shaun S. Mataire", ++i);
+  printf ("%02d: Khoa Nguyen", ++i);
   printf ("There are %i participants.\n", i);
   return 0;
 } // main
