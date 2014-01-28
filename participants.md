@@ -12,3 +12,4 @@ A list of participants in CSC 195
 * Abby E. Stevens
 * Zoe Wolter
 * Muhammad Samee Zahid
+* Seth D. H. Hanson
