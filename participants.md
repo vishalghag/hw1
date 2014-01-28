@@ -5,6 +5,7 @@ A list of participants in CSC 195
 
 * Toby E. Baratta
 * Halley Freger
+* Seth D. H. Hanson
 * Ajuna S. Kyaruzi
 * Shaun S. Mataire
 * Alexander C. Mitchell
@@ -13,4 +14,6 @@ A list of participants in CSC 195
 * Abby E. Stevens
 * Zoe Wolter
 * Muhammad Samee Zahid
+=======
 
+>>>>>>> e288dc488a656967b44f68d193ba2229074e7dab
