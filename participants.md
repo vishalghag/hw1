@@ -5,4 +5,5 @@ A list of participants in CSC 195
 
 * Toby E. Baratta
 * Alexander C. Mitchell
+* Khoa Nguyen
 * Samuel A. Rebelsky
