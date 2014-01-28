@@ -5,6 +5,7 @@ A list of participants in CSC 195
 
 * Toby E. Baratta
 * Halley Freger
+* Seth D. H. Hanson
 * Ajuna S. Kyaruzi
 * Shaun S. Mataire
 * Alexander C. Mitchell
