@@ -16,6 +16,7 @@ A list of participants in CSC 195
 * Muhammad Samee Zahid
 * Mira E. Hall
 * Noah D. Schlager
+* Elias Mulhall
 =======
 
 >>>>>>> e288dc488a656967b44f68d193ba2229074e7dab
