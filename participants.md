@@ -14,6 +14,7 @@ A list of participants in CSC 195
 * Abby E. Stevens
 * Zoe Wolter
 * Muhammad Samee Zahid
+* Mira Hall
 =======
 
 >>>>>>> e288dc488a656967b44f68d193ba2229074e7dab
