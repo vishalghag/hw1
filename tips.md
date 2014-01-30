@@ -9,4 +9,8 @@ At the end of the session, you should make sure to commit any important
 changes you've made.  However, you should only push changes that you are
 sure do not break the system.  -- SR
 
-
+Using the terminal when working with Git reps. might be confusing at times, here are
+are links to some GUI's are think might be usefull.(SM):
+	-http://gitx.laullon.com/
+	-http://www.sourcetreeapp.com/
+	-https://code.google.com/p/tortoisegit/ 
