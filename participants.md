@@ -7,6 +7,7 @@ A list of participants in CSC 195
 * Halley Freger
 * Seth D. H. Hanson
 * Ajuna S. Kyaruzi
+* Eve B. Lyons-Berg
 * Shaun S. Mataire
 * Alexander C. Mitchell
 * Khoa Nguyen
