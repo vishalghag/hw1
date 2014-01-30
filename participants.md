@@ -7,6 +7,7 @@ A list of participants in CSC 195
 * Halley Freger
 * Seth D. H. Hanson
 * Ajuna S. Kyaruzi
+* Eve B. Lyons-Berg
 * Shaun S. Mataire
 * Alexander C. Mitchell
 * Khoa Nguyen
@@ -16,6 +17,5 @@ A list of participants in CSC 195
 * Muhammad Samee Zahid
 * Mira E. Hall
 * Noah D. Schlager
-=======
-
->>>>>>> e288dc488a656967b44f68d193ba2229074e7dab
+* Elias Mulhall
+* Yazan A. Kittaneh
