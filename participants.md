@@ -13,6 +13,7 @@ A list of participants in CSC 195
 * Shaun S. Mataire
 * Alexander C. Mitchell
 * Khoa Nguyen
+* Linda Oyolu
 * Samuel A. Rebelsky
 * Abby E. Stevens
 * Zoe Wolter
