@@ -1,1 +1,2 @@
 1. Making Changes in Remote Side and Pushing it
+2. Making Changes in Local Side of GitHub and pulling it in remote side 
